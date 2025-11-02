@@ -6,6 +6,7 @@ Easily add and delete your daily tasks as completed — all in one clean interfa
 
 ---
 ## Project Structure
+<img width="332" height="332" alt="Screenshot 2025-11-02 215058" src="https://github.com/user-attachments/assets/ff88952f-64fc-42c0-a059-c7a71cfd24cc" />
 
 ---
 
