@@ -12,10 +12,11 @@ Easily add and delete your daily tasks as completed — all in one clean interfa
 ## About the Project
 
 A basic To-Do List app built during my learning phase.
+
 Includes:
-   LocalStorage support — tasks stay even after refresh
-   Simple responsive UI built with HTML, CSS & JavaScript
-  Nothing fancy — just practicing DOM manipulation, event handling, and local storage logic.
+   .LocalStorage support — tasks stay even after refresh
+   .Simple responsive UI built with HTML, CSS & JavaScript
+   .Nothing fancy — just practicing DOM manipulation, event handling, and local storage logic.
 
 ---
 
