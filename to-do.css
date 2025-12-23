@@ -1,7 +1,7 @@
 body{
     font-size: 25px;
     font-family: Arial;
-    color: black;
+    color: rgb(33, 23, 23);
     text-align: center;
     background : linear-gradient(to left , rgb(155, 199, 211) , rgb(227, 170, 221));
 }
